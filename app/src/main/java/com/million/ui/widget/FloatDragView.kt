@@ -36,7 +36,6 @@ class FloatDragView : FrameLayout, View.OnTouchListener {
         defStyle
     ) {
         initView()
-        initStartLocation()
     }
 
     private fun initView() {
